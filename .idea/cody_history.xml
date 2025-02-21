@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <chats>
+      <list>
+        <chat>
+          <accountId value="VXNlcjoxMzM3NzA=" />
+          <internalId value="1f98e707-4281-4691-8368-218647281a64" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoxMzM3NzA=" />
+          <internalId value="91c23628-48d9-4ea3-99db-6856e8270b87" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoxMzM3NzA=" />
+          <internalId value="f18e2bd5-10b1-4fcc-b064-ef2cbcc523f4" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoxMzM3NzA=" />
+          <internalId value="65b16e09-3aa1-4b1b-bbc1-e9ffe9b19e83" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoxMzM3NzA=" />
+          <internalId value="ae1e468f-7fcb-4aaa-9e03-13f46f0c2c26" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoxMzM3NzA=" />
+          <internalId value="4b6f17aa-2894-4bba-8e68-ea2297d5121d" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+        <chat>
+          <accountId value="VXNlcjoxMzM3NzA=" />
+          <internalId value="cda08ed6-bb5d-4f0e-bf90-df2b8f3add69" />
+          <llm>
+            <llm>
+              <model value="anthropic/claude-2.0" />
+              <provider value="Anthropic" />
+              <title value="Claude 2.0" />
+            </llm>
+          </llm>
+        </chat>
+      </list>
+    </chats>
+  </component>
+</project>
